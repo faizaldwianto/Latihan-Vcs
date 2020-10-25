@@ -5,3 +5,5 @@
 **NIM :312010467** <br>
 
 # Langkah-Langkah Penggunaan Git
+* Download git terlebih dahulu,dengan link berikut :[click Here](https://git-scm.com/download/win)
+![gitscm](foto/gitbash.png)
