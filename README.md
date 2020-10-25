@@ -7,4 +7,4 @@
 # Langkah-Langkah Penggunaan Git
 * Download git terlebih dahulu,dengan link berikut :[click Here](https://git-scm.com/download/win)
 
-![gitscm](foto/version.PNG) <br>
+![GitVersion](foto/version.PNG) <br>
